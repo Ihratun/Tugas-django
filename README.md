@@ -1,6 +1,6 @@
-program yang dibutuhkan
-1.Python 3.9
-2.VS CODE
-3.Django 1.11.29
-4.Mysqlclient 1.4.6
-5.XAMPP
+Program yang dibutuhkan
+1. VS code
+2. Python 3.9.1
+3. mysqlclient 1.4.6
+4. Django 1.11.29
+5. XAMPP 3.3.0
